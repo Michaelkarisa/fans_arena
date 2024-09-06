@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "561012561026",
+    "project_id": "fans-arena",
+    "storage_bucket": "fans-arena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561012561026:android:e52cda2b353fee24c1109b",
+        "android_client_info": {
+          "package_name": "com.example.fans_arena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561012561026-lagjcqie76v8apsur6aphc30a78j33dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5ZyB5ej-I1G_lu55IuMkeRphB2DDMTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561012561026-lagjcqie76v8apsur6aphc30a78j33dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561012561026-vbvagfsu2mths4593hd3uqpuf7vf8mpf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fansArena"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
